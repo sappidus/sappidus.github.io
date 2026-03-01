@@ -1,8 +1,5 @@
 { 
   "param": { 
-    "year": 2026,
-    "layout": "weekly-grid",
-
     "color_cell": [
       {"date": "2026-01-12", "color":"#fdd" },
       {"date": "2026-02-02", "color":"#fdd" },
