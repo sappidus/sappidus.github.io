@@ -6,8 +6,7 @@
     "color_cell": [
       {"date": "2026-01-12", "color":"#fdd" },
       {"date": "2026-02-02", "color":"#fdd" },
-      {"date": "2026-03-02", "color":"#fdd" },
+      {"date": "2026-03-02", "color":"#fdd" }
     ]
-
   }
 } 
