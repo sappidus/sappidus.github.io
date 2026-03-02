@@ -1,6 +1,11 @@
 { 
   "param": { 
     "color_cell": [
+      {"date": "2020-03-21", "color":"#fdd" },
+      {"date": "2020-03-31", "color":"#fdd" },
+      {"date": "2020-04-06", "color":"#fdd" },
+      {"date": "2020-04-14", "color":"#fdd" },
+      {"date": "2020-04-21", "color":"#fdd" },
       {"date": "2020-04-28", "color":"#fdd" },
       {"date": "2020-05-20", "color":"#fdd" },
       {"date": "2020-05-26", "color":"#fdd" },
